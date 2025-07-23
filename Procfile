@@ -1,0 +1,1 @@
+web: cd agenda && gunicorn agenda.wsgi:application
